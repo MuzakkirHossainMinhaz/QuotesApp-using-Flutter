@@ -1,6 +1,7 @@
 # QuotesApp
 
 A new Flutter project.
+
 A Flutter sample app that fetch a API and when click/tap on "Get New Quote!" button shows a new quote on to top of the button.
 
 ## Screenshot
